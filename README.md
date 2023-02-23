@@ -34,5 +34,5 @@ Info-X is a information gathering tool...with this tool You can clget vectims li
 <h3><b><i>ðŸ“¡ Connect with us :</i></b></h3>
 <a href="https://github.com/TeamTSZ/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/TeamTSZ/File_Box/main/Github.png" /></a>
 <a href="https://t.me/TSZ196"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/TeamTSZ/File_Box/main/Telegram.png" /></a>
-<a href="https://facebook.com/groups/763643838521570/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/TeamTSZ/File_Box/main/Facebook.png" /></a>
+<a href="https://facebook.com/groups/763643838521570/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/TeamTSZ/File_Box/main/fb.png" /></a>
 
