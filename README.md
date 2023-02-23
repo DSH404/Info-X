@@ -21,7 +21,7 @@ Info-X is a information gathering tool...with this tool You can clget vectims li
 + ```cd Info-X```
 + ```python Info-X.py```
 
-### Attacking
+### Interfere
 ![photo](https://raw.githubusercontent.com/TeamTSZ/Info-X/main/Index.jpg)
 
 #### Created By : TeamTSZ
