@@ -25,7 +25,7 @@ Info-X is a information gathering tool...with this tool You can clget vectims li
 <html>
 <head>
 <body>
-   <img src="https://at.tumblr.com/thcb/710024257669824512/idk8g9j38fc8.jpg" />
+   <img src="https://raw.githubusercontent.com/TeamTSZ/Info-X/main/Index.jng" />
 </body>
 </html>
 
