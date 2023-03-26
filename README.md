@@ -1,5 +1,5 @@
 # Info-X
-Info-X is a information gathering tool...with this tool You can clget vectims like ip , gmail , phone number information....
+Info-X is a information gathering tool...with this tool You can collect vectims information like ip , gmail , phone number information....
 
 ### Features :
 + Track IP Address
